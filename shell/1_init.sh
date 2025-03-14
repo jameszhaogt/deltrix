@@ -1,4 +1,4 @@
-cat ../wanmi* > /root/wanmi.zip
+cat ../package/wanmi** > /root/wanmi.zip
 # 解压wanmi.zip到htdocs/software目录
 # 创建目标目录（如果不存在）
 mkdir -p /root/htdocs/software/
